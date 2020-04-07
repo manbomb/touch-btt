@@ -4,7 +4,7 @@
 
 ## Circuit
 
-![Circuit](images/circuit.png)
+![Circuit](print.png)
 
 ## Code
 
